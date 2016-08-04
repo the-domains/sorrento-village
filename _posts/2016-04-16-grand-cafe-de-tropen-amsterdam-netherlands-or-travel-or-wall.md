@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:25:20.152Z'
+datePublished: '2016-08-04T19:25:20.172Z'
 sourcePath: >-
   _posts/2016-04-16-grand-cafe-de-tropen-amsterdam-netherlands-or-travel-or-wall.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-04T19:25:19.166Z'
+dateModified: '2016-08-04T19:25:19.789Z'
 title: 'Grand Café de Tropen, Amsterdam, Netherlands'
 app_links: []
 publisher:
